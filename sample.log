@@ -1,0 +1,7 @@
+2024-04-22 10:00:00 - INFO - Application started
+2024-04-22 10:00:05 - DEBUG - Processing data...
+2024-04-22 10:00:10 - INFO - Data processed successfully
+2024-04-22 10:00:15 - ERROR - An error occurred: Division by zero
+2024-04-22 10:00:20 - DEBUG - Fetching data from API...
+2024-04-22 10:00:25 - INFO - Data fetched: 100 records
+2024-04-22 10:00:30 - INFO - Application shutdown
